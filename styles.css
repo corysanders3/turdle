@@ -40,6 +40,7 @@ p {
 #rules-section,
 #stats-section,
 #game-over-section,
+#game-over-loss-section,
 nav {
   width: 33%;
 }
@@ -165,7 +166,8 @@ nav {
 
 #rules-section,
 #stats-section,
-#game-over-section {
+#game-over-section,
+#game-over-loss-section {
   text-align: center;
 }
 
